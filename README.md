@@ -118,3 +118,11 @@ The quantum internet enables secure, large-scale deployment of quantum token sys
 ---
 
 This documentation outlines a robust framework for implementing a **Quantum Token System** using the quantum internet. The system is future-proof, leveraging advanced quantum communication protocols for high security, scalability, and practical application.
+
+---
+
+Unfortunately, I was unable to fully implement and test this application on the SquidASM platform due to my current level of familiarity with its functionalities. While I successfully completed the installation process, I encountered technical issues with my credentials for accessing NetQASM and eventually SquidASM, which prevented further progress. Hence, I have not fully completed the challenge, nevertheless, this experience provided valuable insights into the platform's potential, and I am eager to continue exploring and enhancing my understanding of SquidASM for future projects.
+
+---
+
+Thank You.
